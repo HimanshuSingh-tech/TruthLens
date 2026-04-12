@@ -1,7 +1,0 @@
-[ 93] Politico             -> Likely Real | ['✅ Verified & trusted source', '✅ No clickbait language', '✅ Normal capitalisation', '✅ Measured, neutral tone']
-[ 90] CNBC                 -> Likely Real | ['✅ Verified & trusted source', '✅ No clickbait language', '✅ Measured, neutral tone']
-[ 93] Associated Press     -> Likely Real | ['✅ Verified & trusted source', '✅ No clickbait language', '✅ Normal capitalisation', '✅ Measured, neutral tone']
-[ 80] BBC News             -> Likely Real | ['✅ Verified & trusted source', '✅ No clickbait language', '📢 Excessive ALL CAPS (2 words)', '✅ Measured, neutral tone']
-[ 93] Axios                -> Likely Real | ['✅ Verified & trusted source', '✅ No clickbait language', '✅ Normal capitalisation', '✅ Measured, neutral tone']
-[ 50] CBS Sports           -> Suspicious | ['⚠️ Source not in verified list', '✅ No clickbait language', '📢 Excessive ALL CAPS (2 words)', '✅ Measured, neutral tone']
-[ 63] Yahoo Entertainment  -> Suspicious | ['⚠️ Source not in verified list', '✅ No clickbait language', '✅ Normal capitalisation', '✅ Measured, neutral tone']
